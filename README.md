@@ -4,7 +4,7 @@
 
 **Day 27 / 30 - April Vibe Coding Challenge**
 
-## 🔗 [Live Demo](#)
+## 🔗 [Live Demo](https://nova-flow-gravity-puzzle.vercel.app/)
 
 **NovaFlow** is an ultra-premium, interactive orbital mechanics and gravity puzzle simulator. Navigate the deep celestial void by slingshotting a glowing comet payload around massive attractive and repulsive celestial bodies. Chart the perfect trajectory to securely lock into the target orbit without crashing.
 
