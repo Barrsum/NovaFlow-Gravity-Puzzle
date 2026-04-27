@@ -10,7 +10,6 @@
 
 ## 📸 Screenshots
 
-*(Add your screenshots here)*
 ![1](public/home-01.png)
 ![2](public/home-02.png)
 ![3](public/home-03.png)
